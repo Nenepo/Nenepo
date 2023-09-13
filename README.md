@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nenepo
+- 👋 Hi, I’m @Nene.dev
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning HTML,CSS,BOOTSTRAP
 - 💞️ I’m looking to collaborate on a project

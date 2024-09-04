@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nene.dev
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning HTML,CSS,BOOTSTRAP
+- 🌱 I’m currently learning React and Nextjs
 - 💞️ I’m looking to collaborate on a project
 - 📫 How to reach me nafisafaruna@gmail.com
 

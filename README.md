@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Nene.dev
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning React and Nextjs
-- 💞️ I’m looking to collaborate on a project
+- Frontend Developer · Next.js · React · TypeScript | Building healthtech, fintech & automation-powered UIs | Open to remote roles
 - 📫 How to reach me nafisafaruna@gmail.com
 
 <!--
